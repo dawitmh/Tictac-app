@@ -1,5 +1,5 @@
 var origBoard;
-const hubPlayer = "o";
+const hubPlayer = "o"; 
 const aipLayer  = "x";
 const WinCombos = [
     [0, 1, 2],
